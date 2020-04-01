@@ -1,5 +1,1 @@
-# Welcome to source code fot understanding Theory Probability
-
-  
-
-
+# Welcome understanding Theory Probability with python
